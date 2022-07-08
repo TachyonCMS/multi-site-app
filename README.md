@@ -1,6 +1,6 @@
 # TachyonCMS Multi-Site App
 
-This is a starting point for building a Quasar app backed by TachyonCMS content.
+This is a starting point for building a Quasar 2, Vue 3 app backed by TachyonCMS content.
 
 We will support both static and semi-static page generation. Only the semi-static routes required for domain parking are fully baked.
 
